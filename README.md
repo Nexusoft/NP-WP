@@ -1,9 +1,9 @@
 # NP-WP
-Nexus Protocol White Paper
+## Nexus Protocol White Paper
 
 This architecture has been under development since 2016, and is released under an MIT License. You are free to use and redisribute at your own will, but attribution must be provided to nexus.io for your use of our architecture, such as but not limited to Tokenized Satellites, Geo-Spacial Routing, Satellite Network Effects, Satellite Crowdfunding, Satellite Data Layer, Nexus Protocol, Geo-Spacial Binding, and all other architectural components contained in this document.
 
-MIT License
+## MIT License
 
 Copyright (c) 2016-2021 powered by nexus.io
 
